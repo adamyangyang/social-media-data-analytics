@@ -1,4 +1,4 @@
-# social-media-data-analytics
+# Social Media Data Analytics Project
 
 This project involves helping a social media company better understand its user base & behavior on its platform.
 

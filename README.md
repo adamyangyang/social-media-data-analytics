@@ -12,4 +12,4 @@ Some additional info about the platform:
 
 - They also provide users with over 100 different types of ‘reactions’ (or interactions) to engage with each piece of content.
 
-Each of the ‘reactions’ has a ranking score attached to it. The higher the score, the better.
+- Each of the ‘reactions’ has a ranking score attached to it. The higher the score, the better.
